@@ -10,7 +10,7 @@
 
 - :computer: Currently working as a **web developer**.
 - :book: Major is **digital media technology**.
-- :video_game: Like to explore all the fun things.
+- :video_game: Like to explore everything fun.
 - :muscle: Slowly but persistently.
 
 ### :hammer_and_wrench: Technologies and tools
