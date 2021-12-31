@@ -22,5 +22,5 @@
 
 ### :mailbox_with_mail: Where to find me
 
-[![Instagram](https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png)](https://www.instagram.com/popyniu/) [![GitHub](https://github.com/hussainweb/hussainweb/raw/main/icons/github.png)](https://github.com/niuniunn)
+[![Instagram](https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png)](https://www.instagram.com/popyniu/) [![GitHub](https://github.com/hussainweb/hussainweb/raw/main/icons/github.png)](https://github.com/niuniunn)[![juejin](https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6bdafd801c878b10edb5fed5d00969e9.svg)](https://juejin.cn/user/1926786279017853/posts)
 
